@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://i.imgur.com/gqRTJtl.png" width="100" height="100"><h1>Hello, my name is overflow. 👁️‍!</h1>
+<img src="https://i.imgur.com/gqRTJtl.png" width="100" height="100">
 
 Java enthusiast
 
